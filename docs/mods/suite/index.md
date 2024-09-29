@@ -20,7 +20,7 @@ Our core suite of FTB Mods are designed to provide essential features to all of 
 
 ## More to come
 
-- FTB Quests: _Not documented yet_
-- FTB Chunks: _Not documented yet_
-- FTB Backups: _Not documented yet_
-- FTB Backups 2: _Not documented yet_
+- FTB Quests: Not coming
+- FTB Chunks: Not coming
+- FTB Backups: Not coming
+- FTB Backups 2: Not coming
